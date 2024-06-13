@@ -19,8 +19,13 @@ This project is structured into three main parts, which should be completed in t
    - [Kubernetes Deployments and Services](#kubernetes-deployments-and-services)
    - [Ingress Configuration](#ingress-configuration)
 
-3. **K3d and Argo CD**  
-   - *TODO*
+3. **[K3d and ArgoCD](#k3d-and-argocd)**
+   - [Setup Script for K3d and Argo CD](#setup-script-for-k3d-and-argo-cd)
+   - [Setup Script (`setup.sh`)](#setup-sh)
+   - [Continuous Integration Setup](#continuous-integration-setup)
+   - [Continuous Integration Script (`run.sh`)](#run-sh)
+   - [Continuous Deployment via GitHub and DockerHub](#continuous-deployment-via-github-and-dockerhub)
+
 
 ## K3s and Vagrant
 
