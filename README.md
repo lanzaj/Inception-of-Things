@@ -1,5 +1,5 @@
 # Inception-of-Things Project Documentation
-
+A group project with [lsimanic](https://github.com/lorenzoedoardofrancesco) and [tgrasset](https://github.com/tgrasset)
 ## Introduction
 
 The **Inception-of-Things** project is designed to deepen your understanding by engaging you in the practical application of **K3d** and **K3s** with **Vagrant**. Throughout this project, you will learn how to configure a personal virtual machine using Vagrant with your preferred distribution. The project guides you through utilizing **K3s** and its Ingress capabilities, and introduces **K3d**, a tool that simplifies Kubernetes operations. These foundational steps will embark you on your journey with Kubernetes, offering a minimal yet essential introduction to the complexities of this orchestration tool.
